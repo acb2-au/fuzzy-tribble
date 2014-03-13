@@ -1,0 +1,2 @@
+pete = 'awesome'
+print pete 
