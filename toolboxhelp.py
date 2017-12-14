@@ -1,2 +1,2 @@
-pete = 'awesome'
-print pete 
+pete_is_probably_not = 'awesome'
+print pete_is_probably_not
